@@ -1,0 +1,9 @@
+{
+ "version": "1.1.0",
+ "date": "2026-10-22",
+ "notes": "First release",
+ "bin": "https://inac-radio.github.io/seatalk1-usb-dongle-firmware/st1_dongle_c3-1.1.0.bin",
+ "size": 1372652,
+ "sha256": "f0a12bb1eca2ded0effa5af949acf7570a9e9e91663fe2365bad826d9f7fe436",
+ "sig": "b48c56dcaffd7a0ad591227c13d5146c0af5a0d1ef1e1e0a0aa32e8910631f0afa8eeebdeb6346ca84c9291f274ddfbe1b4545cb8bc37ee19fececa0a5d1317f"
+}
