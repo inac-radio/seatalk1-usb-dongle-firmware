@@ -1,6 +1,6 @@
-# SeaTalk1 USB dongle firmware
+# Bidirectional SeaTalk1 USB dongle firmware
 
-Firmware for the SeaTalk1 USB dongle.
+Firmware for the Bidirectional SeaTalk1 USB dongle.
 
 ![Instruments page](docs/images/web_debug_wide.png)
 
