@@ -1,9 +1,9 @@
 {
- "version": "1.1.1",
+ "version": "1.1.2",
  "date": "2026-10-22",
- "notes": "Settings: device name check works again in Chrome",
- "bin": "https://inac-radio.github.io/seatalk1-usb-dongle-firmware/st1_dongle_c3-1.1.1.bin",
- "size": 1372652,
- "sha256": "15270723b87f714a5eab0c0f07ca9f2e1c8c9d58ebe798d90e47bb7c6a33f1c3",
- "sig": "661b97a46d072e113326dae575cc3239a1f136f271c39d665ca072284f09ce65df0d21474c72a76647faf85ff79e47ac4c0b11e2ffc9f00f24a687f81c86e936"
+ "notes": "Checks for updates when Settings opens; device name check fixed",
+ "bin": "https://inac-radio.github.io/seatalk1-usb-dongle-firmware/st1_dongle_c3-1.1.2.bin",
+ "size": 1374220,
+ "sha256": "a6f9c8a13d9b8ae60e56184270ef71fb4b89afd5bca62eba22fef929a5c0ed9b",
+ "sig": "78b5845836abd181c439562cd4ac46d357f1b23e22287d0e0ea96481304ec856dd446056ae887e3d6092c0255a845984892cae1fe0ac280df0a70bc1c3e91309"
 }
