@@ -1,9 +1,9 @@
 {
- "version": "1.1.4",
+ "version": "1.1.5",
  "date": "2026-11-23",
- "notes": "Fixes a memory leak that stopped online update checks after two tries",
- "bin": "https://inac-radio.github.io/seatalk1-usb-dongle-firmware/st1_dongle_c3-1.1.4.bin",
- "size": 1377868,
- "sha256": "dd6878b0f9e0495aeca8ecba1031b2edc5684c35582f7014ad7a641c21a5f311",
- "sig": "7bccb2e6450309e4b1755a87f62c077016056f1f281ef16aceadf669034c3eae7c847e855c1745267a9fcbcf18e0ba9bbbbf31c97b74d4f33e3ea448a284582c"
+ "notes": "Web pages: no dots before the headlines; user manual (PDF) added to the project",
+ "bin": "https://inac-radio.github.io/seatalk1-usb-dongle-firmware/st1_dongle_c3-1.1.5.bin",
+ "size": 1377724,
+ "sha256": "d4ccc44b77dc11858737c0cdb882b8ebf9dcda6beaa7a418cab64fb5877ef642",
+ "sig": "6ef1472ed18c4b605d8f11140bcf8437729647e6762d8572cec8bace98066bf03a50c71abc21e5eb9d956e08fa8f9e9c1f1409d81be87e0b87af521891f8b0f4"
 }
