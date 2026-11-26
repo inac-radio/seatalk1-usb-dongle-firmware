@@ -1,9 +1,9 @@
 {
- "version": "1.1.6",
- "date": "2026-11-23",
- "notes": "Demo mode: the Pilot keys follow 'Allow autopilot buttons', as on the boat",
- "bin": "https://inac-radio.github.io/seatalk1-usb-dongle-firmware/st1_dongle_c3-1.1.6.bin",
- "size": 1377708,
- "sha256": "8013d0cc2cce1fe549ce7dd3990b461bfede3a54e5cff72f7680aaf73b9375ea",
- "sig": "618475b60d3cf93c022dfac215cba425bfd1c65c5cd5d33302396263289f85666dba6a604f56b267b600d60d890cf14da90b935b9e17ff209f43576de5ace674"
+ "version": "1.2.0",
+ "date": "2026-11-26",
+ "notes": "Optional MQTT: send the instrument data to Home Assistant, Node-RED or any MQTT broker over Wi-Fi (Settings → MQTT). Off by default; USB works as before.",
+ "bin": "https://inac-radio.github.io/seatalk1-usb-dongle-firmware/st1_dongle_c3-1.2.0.bin",
+ "size": 1513820,
+ "sha256": "9e3affc111a260d95568ae1e452c5843cbd50efb778435c3bce032680a74020b",
+ "sig": "dd2ee101080de98aa2b30c3534e12d354509395defc9a414899ce0b46510dd9d8ccd110c4ebbd19eca51baa91ef249a876af1729e3584f0b713c366f62ba8a73"
 }
