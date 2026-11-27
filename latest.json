@@ -1,9 +1,9 @@
 {
- "version": "1.2.0",
- "date": "2026-11-26",
- "notes": "Optional MQTT: send the instrument data to Home Assistant, Node-RED or any MQTT broker over Wi-Fi (Settings → MQTT). Off by default; USB works as before.",
- "bin": "https://inac-radio.github.io/seatalk1-usb-dongle-firmware/st1_dongle_c3-1.2.0.bin",
- "size": 1513820,
- "sha256": "9e3affc111a260d95568ae1e452c5843cbd50efb778435c3bce032680a74020b",
- "sig": "dd2ee101080de98aa2b30c3534e12d354509395defc9a414899ce0b46510dd9d8ccd110c4ebbd19eca51baa91ef249a876af1729e3584f0b713c366f62ba8a73"
+ "version": "1.3.0",
+ "date": "2026-11-27",
+ "notes": "Home Assistant: the dongle and its sensors (depth, speed, wind, heading, autopilot, position) appear in Home Assistant by themselves when MQTT is on (Settings → MQTT). MQTT stays read-only.",
+ "bin": "https://inac-radio.github.io/seatalk1-usb-dongle-firmware/st1_dongle_c3-1.3.0.bin",
+ "size": 1518764,
+ "sha256": "a6c3e263759d2805acbdd08414fcb325acab8445d325d09ba8faa22c88ea07b5",
+ "sig": "95cabfc9605d77ff42488814cad90a1b5916c20f79d5ee0b99ef25ed0ca12ff46b0694f569f27c0ee4d73f550531734e0c9b23cdc9999f76d0b7053d15cb3e8f"
 }
